@@ -1,0 +1,5 @@
+{
+  "name": "ZAP CONTROLE Dashboard",
+  "description": "A comprehensive financial dashboard inspired by the ZAP Financeiro application, allowing users to track reports, transactions, cards, reminders, investments, and export data. It features interactive charts and a modern, dark-themed interface.",
+  "requestFramePermissions": []
+}
